@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Diplomata
+- Font Author: Copyright 2011 The Diplomata Project Authors (https://github.com/etunni/diplomata), with Reserved Font Name "Diplomata"
+- Font Source: http://fonts.gstatic.com/s/diplomata/v27/Cn-0JtiMXwhNwp-wKxyfYGxYrdM9Sg.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
